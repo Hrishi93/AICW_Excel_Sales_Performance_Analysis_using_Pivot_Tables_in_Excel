@@ -169,10 +169,5 @@ Through this project, the retail company can now:
 * Make data-driven decisions using an interactive Excel dashboard.
 
 ---
-
 **Project Title:** *Sales Performance Analysis using Pivot Tables in Excel*
 **Tools Used:** *Microsoft Excel (Advanced Pivot Tables & Charts)*
-
----
-
-Would you like me to format this as a **Markdown file (`README.md`)** that you can directly upload to GitHub (with headings, bullet points, and emojis intact)?
